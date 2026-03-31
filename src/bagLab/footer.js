@@ -21,6 +21,7 @@ const FooterPage = () => {
             <a
               href="https://harremar.pages.iu.edu/flowerio/index.html"
               target="_blank"
+              rel="noreferrer"
             >
               flowerio
             </a>
@@ -28,6 +29,7 @@ const FooterPage = () => {
             <a
               href="https://harremar.github.io/snakesAndLadders/"
               target="_blank"
+              rel="noreferrer"
             >
               Snakes & Ladders
             </a>
@@ -37,6 +39,7 @@ const FooterPage = () => {
             <a
               href="https://www.instagram.com/marielle_harrell/"
               target="_blank"
+              rel="noreferrer"
             >
               Instagram
             </a>
@@ -44,11 +47,12 @@ const FooterPage = () => {
             <a
               href="https://www.linkedin.com/in/marielle-harrell-371953230/"
               target="_blank"
+              rel="noreferrer"
             >
               LinkedIn
             </a>
             <br />
-            <a href="https://github.com/harremar" target="_blank">
+            <a href="https://github.com/harremar" target="_blank" rel="noreferrer">
               GitHub
             </a>
             <br />
